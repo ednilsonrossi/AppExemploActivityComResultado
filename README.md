@@ -18,7 +18,7 @@ Projeto desenvolvido em Linguagem de Programação Java.
 
 ## Screeshots
 
-![MainActivity](https://github.com/ednilsonrossi/AppExemploActivityComResultado){width=50%}
-![InputActivity](https://github.com/ednilsonrossi/AppExemploActivityComResultado)
-![InputActivity preenchida](https://github.com/ednilsonrossi/AppExemploActivityComResultado)
-![MainActivity com o resultado](https://github.com/ednilsonrossi/AppExemploActivityComResultado)
+![MainActivity](https://github.com/ednilsonrossi/AppExemploActivityComResultado/blob/main/assets/Screenshot_20231011_104253.png)
+![InputActivity](https://github.com/ednilsonrossi/AppExemploActivityComResultado/blob/main/assets/Screenshot_20231011_104326.png)
+![InputActivity preenchida](https://github.com/ednilsonrossi/AppExemploActivityComResultado/blob/main/assets/Screenshot_20231011_104403.png)
+![MainActivity com o resultado](https://github.com/ednilsonrossi/AppExemploActivityComResultado/blob/main/assets/Screenshot_20231011_104412.png)
